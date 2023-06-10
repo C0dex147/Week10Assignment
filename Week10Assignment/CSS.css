@@ -1,0 +1,56 @@
+h1{
+    text-align: center;
+    font-size: 100px;
+}
+
+.form-group{
+    text-align: center;
+
+}
+
+table{
+    text-align: center;
+    border: 5px;
+}
+
+button{
+    text-align: center;
+}
+
+body{
+    background-image: url(https://wallpapertag.com/wallpaper/full/7/8/b/350830-best-website-background-1920x1080.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat
+}
+
+.container{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+}
+
+#myForm{
+    text-align: center;
+}
+.btn-primary{
+    margin-top: 10px;
+}
+#myTable{
+    margin: 0 auto;
+}
+tbody tr{
+    border: 3px solid black;
+
+}
+tbody tr td{
+    padding: 2px;
+}
+
+
+#textInput{
+    width: 33%;
+    margin: 0 auto;
+    background-color: rgb(198, 153, 5);
+}
